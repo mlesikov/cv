@@ -1,2 +1,2 @@
-[Mihail Lesikov](http://themes.3rdwavemedia.com/) for more themes.
+[Mihail Lesikov](https://mlesikov.github.io/online-cv/) for more of me.
 
