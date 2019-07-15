@@ -95,48 +95,35 @@ education:
 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Head of Software Development
+      time:  Feb 2011 - Present
+      company: CLOUWAY LTD
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Describe your role here 
 
-          - Bullet point
-          - Bullet point
+        Some of the main tools that were used:
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Java, Kotlin
+          - Microservice, CQRS, Agile
+          - Gradle, Google Cloud Platform(Google BigQuery, Cloud Pub/Subs, etc.)
+          - ReactJS, Angular 1.6
+
+    - role: Software Engineer (Full Stack)
+      time: Feb 2009 - Feb 2011
+      company: CLOUWAY LTD
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        As a software engineer, my main responsibly was to develop and
+        maintain high scalable servers of the company projects. One of them
+        was TelcoNg BSS project, that provide quality service for thousands
+        of subscribers. The project was one of the first enterprice project
+        that uses the Google App Engine and the earlies version of the Cloud
+        service. The frontend of the project was build by GWT.
 
-          - Bullet point
-          - Bullet point
+        Some of the main tools that were used:
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Scrum, TDD, Java, Maaven, Googla app engine, GWT, Sitebricks,
+          - Rest Api, Google Cloud Datastore
+          - Postgree SQL, Apache Tomcat, Jetty, HTML & CSS, Javascript
 
 projects:
     title: Projects
