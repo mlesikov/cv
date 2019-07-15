@@ -23,7 +23,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    address: Veliko Turnovo, Bulgaria
+    address: Veliko Tarnovo, Bulgaria
 
     languages:
       - idiom: English
@@ -55,7 +55,7 @@ career-profile:
 
 education:
     - degree: MSc in Informatics, Information Technology Systems
-      university: St. Cyril and St. Methodius University of Veliko Turnovo
+      university: St. Cyril and St. Methodius University of Veliko Tarnovo
       time: 2009 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -81,7 +81,7 @@ education:
           - Bullet point
 
     - degree: BSc in  Informatics
-      university: St. Cyril and St. Methodius University of Veliko Turnovo
+      university: St. Cyril and St. Methodius University of Veliko Tarnovo
       time: 2004 - 2009
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
