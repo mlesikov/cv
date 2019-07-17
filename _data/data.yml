@@ -24,7 +24,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     address: Veliko Tarnovo, Bulgaria
-    cv: mlesikov.github.io/cv/  #do not add http://
+#    cv: mlesikov.github.io/cv/  #do not add http://
 
     languages:
       - idiom: English
@@ -43,16 +43,16 @@ sidebar:
 #      - item: Cooking
 #        link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+#career-profile:
+#    title: Career Profile
+#    summary: |
+#      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. You can [download this free resume/CV template here]().
+#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#      Donec quam felis, ultricies nec, pellentesque eu.
+#
+#      Second paragraph if required.
 
 education:
     - degree: MSc in Informatics, Information Technology Systems
@@ -100,14 +100,28 @@ experiences:
       time:  Feb 2011 - Present
       company: CLOUWAY LTD
       details: |
-        Describe your role here 
+        As a Head of Software Develeopment I was responsible for :
+
+          - Successful delivery of software and IT support infrastructure
+          - Implement mechanisms to monitor, manage and provide progress on all software
+            development activities
+          - Lead and manage the Software Development and IT teams to deliver software,
+            infrastructure and architecture that meets the needs of users
+          - Create, implement and maintain a continuous improvement plan
+          - Working closely with the Product Managers
+          - Understanding the use cases (and/or user stories) in order to oversee the design
+            of the architecture for the products to be built
+          - Ensure that the skills and experience of Software Development and IT teams are
+            consistent with its scientific, technological and business needs for providing
+            quality in present and future services
 
         Some of the main tools that were used:
 
           - Java, Kotlin
-          - Microservice, CQRS, Agile
+          - Microservice, Oauth2, CQRS, Agile
           - Gradle, Google Cloud Platform(Google BigQuery, Cloud Pub/Subs, etc.)
-          - ReactJS, Angular 1.6
+          - ReactJS, Angular 1.5
+          - Spark Java
 
     - role: Software Engineer (Full Stack)
       time: Feb 2009 - Feb 2011
@@ -117,84 +131,100 @@ experiences:
         maintain high scalable servers of the company projects. One of them
         was TelcoNg BSS project, that provide quality service for thousands
         of subscribers. The project was one of the first enterprice project
-        that uses the Google App Engine and the earlies version of the Cloud
-        service. The frontend of the project was build by GWT.
+        that uses the Google App Engine and the earlies version of the Google
+        Cloud Services. The frontend of the project was build by GWT.
 
         Some of the main tools that were used:
 
-          - Scrum, TDD, Java, Maaven, Googla app engine, GWT, Sitebricks,
+          - Java, Maaven, Googla app engine, GWT, Sitebricks,
+          - Scrum, TDD, Design Patterns
           - Rest Api, Google Cloud Datastore
           - Postgree SQL, Apache Tomcat, Jetty, HTML & CSS, Javascript
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Politis
+        link: "https://www.clouway.com/politis"
+        tagline: "Cloud based, mobile and web sales platform."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: TelcoNG BSS
+        link: "https://www.clouway.com/telcong/bss"
+        tagline: "Cloud based, end-to-end Bussiness support software solution. CRM, billing and self-service domains"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: TelcoNG WSS
+        link: "https://www.clouway.com/telcong/wss"
+        tagline: "Cloud based, workforce management software solution."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: TelcoNG Accounts
+#        link: "#"
+        tagline: "Authentication & authorization, Oauth2 based platform"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#
+#    papers:
+#      - title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Kotlin
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Google Cloud Platform
+        level: 80%
+
+      - name: JavaScript
+        level: 75%
+
+      - name: ReactJS
+        level: 70%
+
+      - name: Angular 1.5
+        level: 70%
 
       - name: HTML5 & CSS
         level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
