@@ -43,16 +43,16 @@ sidebar:
 #      - item: Cooking
 #        link:
 
-#career-profile:
-#    title: Career Profile
-#    summary: |
-#      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#      adipiscing elit. You can [download this free resume/CV template here]().
-#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#      Donec quam felis, ultricies nec, pellentesque eu.
-#
-#      Second paragraph if required.
+career-profile:
+    title: Profile
+    summary: |
+      Highly motivated software engineer with significant experience in
+      research and development of a secure cloud applications. Strong in
+      design and integration problem-solving skills. Skilled in developing
+      business plans, requirements specifications and architectural systems
+      research. More than 10 years experience with Google Cloud Technologies.
+      An excellent team player with attitude, strong written and verbal
+      communications.
 
 education:
     - degree: MSc in Informatics, Information Technology Systems
