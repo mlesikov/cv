@@ -96,6 +96,14 @@ education:
 
 
 experiences:
+    - role: Senior Software Engineer Team Lead
+      time: March 2020 - Present
+      company: Tarya Fintech
+      details: |
+          As a Senior Software Engineer Team Lead I was responsible for :
+
+          Some of the main tools and technologies that were used:
+
     - role: Head of Software Development
       time:  Feb 2011 - Feb 2020
       company: CLOUWAY LTD
@@ -115,7 +123,7 @@ experiences:
             consistent with its scientific, technological and business needs for providing
             quality in present and future services
 
-        Some of the main tools that were used:
+        Some of the main tools and technologies that were used:
 
           - Java, Kotlin
           - Microservice, Oauth2, CQRS, Agile
