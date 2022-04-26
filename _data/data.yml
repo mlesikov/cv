@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Mihail Lesikov
-    tagline: Full Stack Developer
+    tagline: Senior Software Engineer/ R&D Team Lead
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -96,13 +96,29 @@ education:
 
 
 experiences:
-    - role: Senior Software Engineer Team Lead
+    - role: Senior Software Engineer/ R&D Team Lead
       time: March 2020 - Present
       company: TARYA FINTECH
       details: |
-          As a Senior Software Engineer Team Lead I was responsible for :
+        As a Senior Software Engineer Team Lead I was responsible for :
+           - Managing and organizing the internal flow of a team(5-8 people),
+             responsible for Investor management part of the application
+           - Investor management part includes - Investors settings, Financing of the loans, Investments status,
+             Depostits and Withdraws, Investor and Investor Agent dashboard(AngularJS), Investor Reporting, Notifications
+           - Investigating, designing and estimating the technical solutions
+           - Organizing the teams' task schedule according to the priority
+           - Supporting the teams test environments
+           - Responsible for managing and supporting release flow (making production release and hot fixes)
+           - Investigating and fixing bugs
+           - Onboarding new team members
+           - Taking part of the R&D discussion
 
-          Some of the main tools and technologies that were used:
+        Some of the main tools and technologies that were used:
+           - MIcroservices architecture, REST API, Async communication, Event driven communication
+           - Java 8
+           - Spring boot, Spring cloud, Hibernate, JOOQ
+           - MySQL, MongoDB
+           - Docker Container, container management : Docker Swarm, Docker Compose
 
     - role: Head of Software Development
       time:  Feb 2011 - Feb 2020
