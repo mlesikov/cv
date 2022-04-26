@@ -114,7 +114,7 @@ experiences:
            - Taking part of the R&D discussion
 
         Some of the main tools and technologies that were used:
-           - MIcroservices architecture, REST API, Async communication, Event driven communication
+           - Microservices architecture, REST API, Async communication, Event driven communication
            - Java 8
            - Spring boot, Spring cloud, Hibernate, JOOQ
            - MySQL, MongoDB
@@ -160,7 +160,7 @@ experiences:
 
         Some of the main tools that were used:
 
-          - Java, Maaven, Googla app engine, GWT, Sitebricks,
+          - Java, Maven, Google app engine, GWT, Sitebricks,
           - Scrum, TDD, Design Patterns
           - Rest Api, Google Cloud Datastore
           - Postgree SQL, Apache Tomcat, Jetty, HTML & CSS, Javascript
