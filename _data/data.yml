@@ -47,7 +47,7 @@ career-profile:
     title: Profile
     summary: |
       Highly motivated software engineer with significant experience in
-      research and development of a secure cloud applications. Strong in
+      research and development of secure cloud applications. Strong in
       design and integration problem-solving skills. Skilled in developing
       business plans, requirements specifications and architectural systems
       research. More than 10 years experience with Google Cloud Technologies.
@@ -124,7 +124,7 @@ experiences:
       time:  Feb 2011 - Feb 2020
       company: CLOUWAY LTD
       details: |
-        As a Head of Software Develeopment I was responsible for :
+        As a Head of Software Development I was responsible for :
 
           - Successful delivery of software and IT support infrastructure
           - Implement mechanisms to monitor, manage and provide progress on all software
@@ -151,12 +151,12 @@ experiences:
       time: Feb 2009 - Feb 2011
       company: CLOUWAY LTD
       details: |
-        As a software engineer, my main responsibly was to develop and
+        As a software engineer, my main responsibility was to develop and
         maintain high scalable servers of the company projects. One of them
-        was TelcoNg BSS project, that provide quality service for thousands
-        of subscribers. The project was one of the first enterprice project
-        that uses the Google App Engine and the earlies version of the Google
-        Cloud Services. The frontend of the project was build by GWT.
+        was TelcoNg BSS project, which provides quality service for thousands
+        of subscribers. The project was one of the first enterprise project
+        that uses the Google App Engine and the earliest version of the Google
+        Cloud Services. The frontend of the project was built with GWT.
 
         Some of the main tools that were used:
 
