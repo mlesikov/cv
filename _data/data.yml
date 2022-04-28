@@ -98,7 +98,7 @@ education:
 experiences:
     - role: Senior Software Engineer/ R&D Team Lead
       time: March 2020 - Present
-      company: TARYA FINTECH
+      company: TARYA FINTECH (https://www.taryafintech.com)
       details: |
         As a Senior Software Engineer Team Lead I was responsible for :
            - Managing and organizing the internal flow of a team(5-8 people),
@@ -173,6 +173,9 @@ projects:
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
+      - title: TARYA Fintech P2P Solution
+        tagline: "Peer to peer loan financing platform."
+
       - title: Politis
         link: "https://www.clouway.com/politis"
         tagline: "Cloud based, mobile and web sales platform."
