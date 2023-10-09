@@ -102,43 +102,76 @@ experiences:
       company: TARYA FINTECH
       details: |
         As a Senior Software Engineer Team Lead I was responsible for :
-           - Managing and organizing the internal flow of a team(5-8 people),
-             responsible for Investor management part of the application
-           - Investor management part includes - Investors settings, Financing of the loans, Investments status,
-             Depostits and Withdraws, Investor and Investor Agent dashboard(AngularJS), Investor Reporting, Notifications
-           - Investigating, designing and estimating the technical solutions
+        
+           - Led a dynamic team of 5-8 software engineers, fostering a culture of innovation and 
+             technical excellence. Provided mentorship, guidance, and technical expertise to team members, 
+             enabling them to excel in their roles. Responsible for Investor management part of the application
+           - Investor management includes - Investment settings, Financing/Trading/Liquification of the loans investments,
+             Investments status, Depostits and Withdraws transactions, Investor and Investor Agent Fronted dashboard(AngularJS), 
+             Investor Reporting, Notifications
+           - Resolved complex technical challenges and critical issues that arose during project development. 
+             Leveraged analytical skills and deep technical knowledge to identify and implement solutions.
+           - Continuously sought opportunities to optimize processes, reduce technical debt, and enhance system performance.
            - Organizing the teams' task schedule according to the priority
-           - Supporting the teams test environments
+           - Supporting the production and teams dev/QA environments
            - Responsible for managing and supporting release flow (making production release and hot fixes)
            - Investigating and fixing bugs
            - Onboarding new team members
-           - Taking part of the R&D discussion
+
 
         Some of the main tools and technologies that were used:
-           - Microservices architecture, REST API, Async communication, Event driven communication
+           - Microservices architecture, REST API, Open API, Async communication, Event driven communication
            - Java 8
            - Spring boot, Spring cloud, Hibernate, JOOQ
            - MySQL, MongoDB
            - Docker Container, container management : Docker Swarm, Docker Compose
+           - AWS, Oauth2
 
-    - role: Head of Software Development
+#    - role: Head of Software Development
+#      time:  Feb 2011 - Feb 2020
+#      company: CLOUWAY LTD
+#      details: |
+#        As a Head of Software Development I was responsible for :
+#
+#          - Successful delivery of software and IT support infrastructure
+#          - Implement mechanisms to monitor, manage and provide progress on all software
+#            development activities
+#          - Lead and manage the Software Development and IT teams to deliver software,
+#            infrastructure and architecture that meets the needs of users
+#          - Create, implement and maintain a continuous improvement plan
+#          - Working closely with the Product Managers
+#          - Understanding the use cases (and/or user stories) in order to oversee the design
+#            of the architecture for the products to be built
+#          - Ensure that the skills and experience of Software Development and IT teams are
+#            consistent with its scientific, technological and business needs for providing
+#            quality in present and future services
+    - role: Senior Software Engineer / R&D Team Lead
       time:  Feb 2011 - Feb 2020
       company: CLOUWAY LTD
       details: |
-        As a Head of Software Development I was responsible for :
+        As a Senior Software Engineer / R&D Team Lead at Clouway Ltd, I assumed a multifaceted role 
+        with a focus on driving innovation, ensuring software excellence, and leading cross-functional teams 
+        to deliver impactful solutions. My responsibilities included:
 
-          - Successful delivery of software and IT support infrastructure
-          - Implement mechanisms to monitor, manage and provide progress on all software
-            development activities
-          - Lead and manage the Software Development and IT teams to deliver software,
-            infrastructure and architecture that meets the needs of users
+          - Led a dynamic team of 5-9 software engineers, fostering a culture of innovation and 
+            technical excellence. Provided mentorship, guidance, and technical expertise to team members, 
+            enabling them to excel in their roles.
+          - Collaborated closely with Product Managers to comprehend use cases and user stories, 
+            playing a pivotal role in shaping the architectural design of products eco system to be developed.
+          - Worked closely with senior leadership to align technical strategies with the company's long-term goals. 
+            Contributed to the development of the technology roadmap and ensured that technical decisions 
+            supported the organization's vision.
           - Create, implement and maintain a continuous improvement plan
-          - Working closely with the Product Managers
           - Understanding the use cases (and/or user stories) in order to oversee the design
             of the architecture for the products to be built
           - Ensure that the skills and experience of Software Development and IT teams are
             consistent with its scientific, technological and business needs for providing
             quality in present and future services
+          - Continuously sought opportunities to optimize processes, reduce technical debt, and enhance system performance. 
+          - Resolved complex technical challenges and critical issues that arose during product/eco system development. 
+            Leveraged analytical skills and deep technical knowledge to identify and implement solutions.
+          - Spearheaded research initiatives, staying at the forefront of emerging technologies and industry trends. 
+            Implemented cutting-edge solutions to solve complex technical challenges, driving innovation within the organization.
 
         Some of the main tools and technologies that were used:
 
@@ -174,9 +207,13 @@ projects:
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: TARYA Fintech P2P Solution
-        link: "https://www.taryafintech.com/index.php/solutions-page/?slide_id=3"
-        tagline: "An independent platform which offers alternative investment and credit solutions."
+      - title: TARYA Fintech Loan Management Solution
+        link: "https://www.taryafintech.com/private-business-loans/"
+        tagline: "Software solution(end-to-end lending platform), designed to automate and improve the entire loan lifecycle."
+
+      - title: TARYA P2P
+        link: "https://www.tarya.co.il/en/invest/"
+        tagline: "Tarya is a solid investment platform that yields over time consistent positive returns to its investors."
 
       - title: Politis
         link: "https://www.clouway.com/politis"
@@ -191,8 +228,8 @@ projects:
         tagline: "Cloud based, workforce management software solution."
 
       - title: TelcoNG Accounts
-#        link: "#"
-        tagline: "Authentication & authorization, Oauth2 based platform"
+        link: "https://www.clouway.com/telcong/framework"
+        tagline: "Authentication & authorization, Oauth2 based platform part of TelcoNG Framework"
 
 #      - title: DevStudio
 #        link: "#"
