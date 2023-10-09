@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Highly motivated software engineer with significant experience in
+       Highly motivated software engineer with significant experience in
       research and development of secure cloud applications. Strong in
       design and integration problem-solving skills. Skilled in developing
       business plans, requirements specifications and architectural systems
@@ -209,7 +209,7 @@ projects:
     assignments:
       - title: TARYA Fintech Loan Management Solution
         link: "https://www.taryafintech.com/private-business-loans/"
-        tagline: "Software solution(end-to-end lending platform), designed to automate and improve the entire loan lifecycle."
+        tagline: "Software solution (end-to-end lending platform), designed to automate and improve the entire loan lifecycle."
 
       - title: TARYA P2P
         link: "https://www.tarya.co.il/en/invest/"
